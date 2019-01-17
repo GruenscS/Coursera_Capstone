@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # Segmenting and Clustering Neighborhoods in Toronto
-#  Assignment: To scrape the given Wikipedia page and create the following Dataframe:
-# 
-# ![alt text](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/7JXaz3NNEeiMwApe4i-fLg_40e690ae0e927abda2d4bde7d94ed133_Screen-Shot-2018-06-18-at-7.17.57-PM.png?expiry=1547769600000&hmac=1eEHmCBfuyV9Ad-7aOVRNz9_y-IQBA0ZIxcRSwsURxA)
 
 # In[50]:
 
